@@ -15,6 +15,7 @@
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://img.stackshare.io/service/7419/20165699.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
 <code><img height="30" src="https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png"></code>
 <code><img height="30" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-1.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></code>

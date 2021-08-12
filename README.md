@@ -23,7 +23,7 @@
 <code><img height="30" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png"></code>
 <code><img height="30" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png"></code>
 
 ---
 

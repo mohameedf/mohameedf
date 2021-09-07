@@ -9,7 +9,7 @@ Full Stack Developer with 2+ years of hands - on experience designing , developi
 - **Languages :** JavaScript, C#, PHP
 - **Contact me :** [MohammedFakhri](https://www.linkedin.com/in/mohammed-fakhri-463054134/)
 - 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameedf&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameedf&layout=compact&theme=react"/>
 
 ### Languages and Tools
 

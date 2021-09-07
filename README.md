@@ -29,5 +29,5 @@ Full Stack Developer with 2+ years of hands - on experience designing , developi
 
 ---
 
-Credits: [mohameedf](https://github.com/mohameedf)
-![](https://komarev.com/ghpvc/?username=mohameedf&style=flat)
+<p>Credits: [mohameedf](https://github.com/mohameedf) </p>
+<p>![](https://komarev.com/ghpvc/?username=mohameedf&style=flat)</p>

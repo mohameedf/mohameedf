@@ -14,7 +14,7 @@ Full Stack Developer with 2+ years of hands - on experience designing , developi
 ### Languages and Tools
 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></code>
-<code><img height="30" src="https://symbols.getvecta.com/stencil_89/36_nestjs.14658804d8.png"></code>
+<code><img height="30" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="30" src="https://img.stackshare.io/service/7419/20165699.png"></code>
